@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApi-7", "SampleWebApi-7.csproj", "{FD8211DF-6E2F-4F30-AD93-2BE3B992A94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classADO-7", "..\classADO-7\classADO-7.csproj", "{684B56F2-D1E4-4636-945C-138AE7F848FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8211DF-6E2F-4F30-AD93-2BE3B992A94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8211DF-6E2F-4F30-AD93-2BE3B992A94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8211DF-6E2F-4F30-AD93-2BE3B992A94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8211DF-6E2F-4F30-AD93-2BE3B992A94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684B56F2-D1E4-4636-945C-138AE7F848FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684B56F2-D1E4-4636-945C-138AE7F848FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684B56F2-D1E4-4636-945C-138AE7F848FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684B56F2-D1E4-4636-945C-138AE7F848FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7792B4-E7DA-4612-8871-EE081E12E89E}
+	EndGlobalSection
+EndGlobal
